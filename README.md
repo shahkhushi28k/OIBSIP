@@ -18,6 +18,6 @@ The data set is available at https://archive.ics.uci.edu/ml/datasets/iris, the e
 3. petal length (in cm)
 4. petal width (in cm)
 5. class:
-      Iris Setosa
-      Iris Versicolour
-      Iris Virginica
+      -> Iris Setosa
+      -> Iris Versicolour
+      -> Iris Virginica
